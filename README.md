@@ -23,66 +23,77 @@ function resta(x, y){
 }
 
 
-Retornar una multiplicación.
+4. Retornar una multiplicación.
+```javascript
 function multiplicar(x, y){
     // 🎯 multiplica "x" e "y" y retorná el valor
     // Tu código: 
 }
+```
 
-
-Retornar una división.
+5. Retornar una división.
+```javascript
 function dividir(x, y){
     // 🎯 dividí "x" e "y" y retorná el valor
     // Tu código: 
 }
- 
-Diego Maldonado — 14/09/2023 9:55
-Comparar números.
+```
+
+6. Comparar números.
+```javascript
 function igualdad(x, y){
     // 🎯 Devolvé "true" si "x" e "y" son iguales, de lo contrario devolvé "false".
     // Tu código: 
 }
+```
 
-
-Comparar la longitud de dos strings.
+7. Comparar la longitud de dos strings.
+```javascript
 function compararLongitur(str1, str2){
     // 🎯 Devolvé "true" si las dos strings tienen la misma longitud, de lo contrario devolvé "false".
     // Tu código: 
 }
+```
 
-
-Comparar un parámetro I.
+8. Comparar un parámetro I.
+```javascript
 function menorQueNoventa(num){
     // 🎯 Devolvé "true" si el parametro de la funcion "num" es menor que noventa, de lo contrario devolvé "false".
     // Tu código: 
 }
+```
 
-
-Comparar un parámetro II.
+9. Comparar un parámetro II.
+```javascript
 function mayorQueCincuenta(num){
     // 🎯 Devolvé "true" si el parametro de la funcion "num" es mayor que cincuenta, de lo contrario devolvé "false".
     // Tu código: 
 }
+```
 
-
-Retornar el módulo o resto.
+10. Retornar el módulo o resto.
+```javascript
 function obtenerResto(x, y){
     // 🎯 Obtener el resto de la división de "x" e "y".
     // Tu código: 
 }
-Comprobar si es par.
+```
+
+11. Comprobar si es par.
+```javascript
 function esPar(num){
     // 🎯 Devolvé "true" si "num" es par, de lo contario devolvé "false".
     // Tu código: 
 }
+```
 
-
-Comprobar si es impar.
+12. Comprobar si es impar.
+```javascript
 function esImpar(num){
     // 🎯 Devolvé "true" si "num" es impar, de lo contario devolvé "false".
     // Tu código: 
 }
-
+```
 
 Elevar un número al cuadrado.
 function elevarAlCuadrado(num){
