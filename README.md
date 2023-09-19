@@ -17,11 +17,12 @@ function suma(x, y){
 ```
 
 3. Retornar una resta.
+```javascript
 function resta(x, y){
     // 🎯 resta "y" e "x" y retorná el valor
     // Tu código: 
 }
-
+```
 
 4. Retornar una multiplicación.
 ```javascript
@@ -95,48 +96,57 @@ function esImpar(num){
 }
 ```
 
-Elevar un número al cuadrado.
+13. Elevar un número al cuadrado.
+```javascript
 function elevarAlCuadrado(num){
     // 🎯 Devolvé el valor de "num" elevado al cuadrado.
     // Tu código: 
 }
+```
 
-
-Elevar un número al cubo.
+14. Elevar un número al cubo.
+```javascript
 function elevarAlCubo(num){
     // 🎯 Devolvé el valor de "num" elevado al cubo.
     // Tu código: 
 }
+```
 
-
-Elevar un número a un exponente.
+15. Elevar un número a un exponente.
+```javascript
 function elevar(num, exponent){
     // 🎯 Devolvé el valor de "num" elevado al exponente dado en "exponent".
     // Tu código: 
 }
-Redondear un número.
+```
+
+16. Redondear un número.
+```javascript
 function redondearNumero(num){
     // 🎯 Devolvé el valor de "num" redondeado al entero más próximo.
     // Tu código: 
 }
+```
 
-
-Redondear un número hacia arriba.
+17. Redondear un número hacia arriba.
+```javascript
 function redondearHaciaArriba(num){
     // 🎯 Devolvé el valor de "num" redondeado hacia arriba (al próximo entero).
     // Tu código: 
 }
+```
 
-
-Retornar un número aleatorio.
+18. Retornar un número aleatorio.
+```javascript
 function numeroRandom(){
     // 🎯 Generar un número al azar entre 0 y 1 y devolverlo.
     // 🕵️ Pista: investigá que hace el método Math.random(). 
     // Tu código: 
 }
+```
 
-
-Comprar si un numero es positivo.
+19. Comprar si un numero es positivo.
+```javascript
 function esPositivo(num){
     // La función va a recibir un número entero. Devolvé como resultado una cadena de texto que indica si el número es positivo o negativo: 
     // 🎯 Si el número es positivo, devolver el string "Es positivo".
@@ -144,65 +154,76 @@ function esPositivo(num){
     // 🎯 Si el número es 0, devolver false.
     // Tu código: 
 }
+```
 
-
-Concatenar strings I.
+20. Concatenar strings I.
+```javascript
 function agregarSimboloDeExclamacion(str){
     // 🎯 Agregá un símbolo de exclamación al final de la string "str" y devolvé una nueva string 
     // Ejemplo: "hello world" pasaría a ser "hello wolrd!".
     // Tu código: 
 }
-Concatenar strings II.
+```
+
+21. Concatenar strings II.
+```javascript
 function combinarNombres(nombre, apellido){
     // 🎯 Devolver "nombre" y "apellido" combinados en una string y separados por un espacio.
     // Ejemplo: "Diego", "Maldonado" => "Diego Maldonado".
     // Tu código: 
 }
+```
 
-
-Concatenar strings III.
+22. Concatenar strings III.
+```javascript
 function retornarSaludo(nombre){
     // 🎯 Tomá la string "nombre" y concatená otras string en la cadena para que tome la siguiente forma:
     // "Diego" => "Hola Diego!".
     // Tu código: 
 }
+```
 
-
-Operaciones matemáticas I.
+23. Operaciones matemáticas I.
+```javascript
 function areaDelRectangulo(alto, ancho){
     // 🎯 Devolver el área de un rectángulo teniendo su altura y ancho.
     // 🕵️ Pista: investigá como se calcula el area de un rectángulo. 
     // Tu código: 
 }
+```
 
-
-Operaciones matemáticas II.
+24. Operaciones matemáticas II.
+```javascript
 function perimetroDelCuadrado(lado){
     // 🎯 Escibí una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
     // 🕵️ Pista: investigá como se calcula el perímetro de un cuadrado. 
     // Tu código: 
 }
+```
 
-
-Operaciones matemáticas III.
+25. Operaciones matemáticas III.
+```javascript
 function areaDelTriangulo(base, altura){
     // 🎯 Desarrollá una función que calcule el área de un triángulo.
     // 🕵️ Pista: investigá como se calcula el área de un triángulo. 
     // Tu código: 
 }
+```
 
-
-Operaciones matemáticas IV.
+26. Operaciones matemáticas IV.
+```javascript
 function deEuroAdolar(euro){
     // Supongamos que 1 euro equivale a 1.20 dólares.
     // 🎯 Escribí un programa que reciba como parámetro un número de euros y calcule el cambio en dólares.
     // Tu código: 
 }
+```
 
-
-Condicionales.
+27. Condicionales.
+```javascript
 function esVocal(letra){
     // 🎯 Escribí una función que reciba una letra y, si es una vocal, muestre el mensaje "Es vocal".  
     // 🎯 Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle que no se puede procesar el dato mediante el mensaje "Dato incorrecto". 
     // Tu código: 
 }
+```
